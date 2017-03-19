@@ -1,0 +1,63 @@
+#logo {
+	background-image: url(../img/logo.svg);
+	width: 168px;
+	height: 45px;
+	margin-top: 10px;
+}
+#social-vk {
+	background-image: url(../img/vk.svg);
+	width: 22px;
+	height: 22px;
+}
+#social-fb {
+	background-image: url(../img/fb.svg);
+	width: 22px;
+	height: 22px;
+}
+#social-insta {
+	background-image: url(../img/insta.svg);
+	width: 22px;
+	height: 22px;
+}
+#eye {
+	background-image: url(../img/eye.png);
+	width: 18px;
+	height: 10px;
+}
+#pdf {
+	background-image: url(../img/pdf_download.svg);
+	width: 17px;
+	height: 20px;
+}
+#development {
+	background-image: url(../img/development.svg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 67px;
+	height: 67px;
+	margin: 0 auto;
+}
+#help {
+	background-image: url(../img/help.svg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 68px;
+	height: 67px;
+	margin: 0 auto;	
+}
+#job {
+	background-image: url(../img/job.svg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 68px;
+	height: 67px;
+	margin: 0 auto;	
+}
+#book {
+	background-image: url(../img/book.svg);
+	background-repeat: no-repeat;
+	background-size: cover; 
+	width: 67px;
+	height: 67px;
+	margin: 0 auto;	
+}

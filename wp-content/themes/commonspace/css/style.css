@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,500,500i,700,700i,900,900i');
+
+
+
+.poster_page {
+	width: 100%
+}
+
+.sidebar {
+	background-color: #000;
+	width: 100%;
+	height: 300px;
+	float: left;
+
+}
+
+.wrap_page_out {
+	margin-top: 65px;
+}
+
+.info_for_dania {
+	color: #fff;
+	margin-left: 15px;
+}
+
+.header_page_out {
+	font-size: 20px;
+}
+
+.text_page_out	{
+	font-size: 16px;
+	line-height: 26px;
+}
