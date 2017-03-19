@@ -32,7 +32,7 @@ div#menu {
 	padding-left: 15px;
 	padding-right: 15px;
 }
-header a, a:hover {
+header a, header a:hover {
 	color: #fff;
 	text-decoration: none;
 }

@@ -150,7 +150,6 @@ add_action( 'widgets_init', 'commonspace_widgets_init' );
  * Enqueue scripts and styles.
  */
 function commonspace_scripts() {
-	// wp_enqueue_style( 'commonspace-style', get_stylesheet_uri() );//
 
 	wp_enqueue_style( 'styles-bootstrap-grid', get_template_directory_uri() . '/libs/bootstrap/css/bootstrap-grid.min.css' );
 
