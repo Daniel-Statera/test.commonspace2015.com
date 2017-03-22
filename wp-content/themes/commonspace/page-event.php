@@ -16,7 +16,7 @@ get_header(); ?>
 
 <section id="slider_news">
 	<div class="container">
-		<h1>Проекты и мероприятия 2<i class="fa fa-bullhorn"></i></h1>
+		<h1>Проекты и мероприятия <i class="fa fa-bullhorn"></i></h1>
 		<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>		
 	</div>
 </section>
@@ -30,7 +30,7 @@ get_header(); ?>
 	    while ($wp_query->have_posts()) : $wp_query->the_post();
     ?>
 
-	<div class="col-md-4">
+	<div class="col-md-4 col-sm-6">
 		<div class="body-event">
 			<a href="<?php the_permalink() ?>"><?php 
 				if (has_post_thumbnail()) {
