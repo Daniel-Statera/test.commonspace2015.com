@@ -127,6 +127,7 @@ padding: 0;
 	color: #fff;
 	margin-bottom: 14px;
 	margin-top: 0;
+	line-height: 0.76em;
 }
 #slider_about p {
 	font-size: 16px;
@@ -246,7 +247,7 @@ Content
 #news .effect-border {
 	border: 1px solid #fff;
 	box-shadow: 0 0 5px rgba(52,52,52,0.4);
-	height: 152px;
+	height: 118px;
 	margin-top: 20px;
 	padding-left: 165px;
 	position: relative;
@@ -269,7 +270,6 @@ Content
 	font-weight: 700;
 	margin: 5px 0px;
 	color: #3399ff;
-	height: 48px;
 }
 .news p.text {
 	margin-top: 0;
@@ -388,7 +388,7 @@ About
 	font-size: 18px;
 	font-weight: 400;
 	color: #363636;
-	margin-bottom: 100px;
+	margin-bottom: 60px;
 	margin-top: 35px;
 }
 #history .select {
@@ -684,6 +684,7 @@ Footer END
 
 .home-news-img img {
     width: 100%;
+    height: 100%;
 }
 
 #news .effect-border * {
@@ -694,6 +695,29 @@ Footer END
     margin: 5px 0px 10px;
     line-height: 1.33;
 }
-#post-1026 .col-md-9, #post-1026 .col-md-3, #post-1028 .col-md-9, #post-1028 .col-md-3 {
-	padding-top: 35px;
+
+.margin_about_us {
+	margin-top: 20px;
+}
+.margin_about_us2 {
+	margin-top: 60px;
+}
+
+.btn_more a {
+	font-size: 30px;
+}
+
+.btn_pae {
+	padding: 20px;
+	width: 200px;
+	height: 50px;
+	border-radius: 10px;
+	background-color: #3480d5;
+	color: #fff;
+}
+
+
+.margin_video {
+	margin-top: 20px;
+
 }
