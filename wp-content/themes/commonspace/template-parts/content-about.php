@@ -12,15 +12,23 @@
 	<section id="slider_about">
 		<div class="container">
 			<div class="row">
-				<div class="col-md-5 intro">
-					<h1>Единый Простор</h1>
+			<div class="margin_about_us">
+				<div class="col-md-6 intro">
+					<h1>Единый простор</h1>
 					<p>Это объединение людей, включенных в различные социальные проекты и программы, направленные на построение гражданского общества</p>
 				</div>
-				<div class="col-md-6 col-md-offset-1">
-					<img src="/wp-content/themes/commonspace/img/youtube.jpg" alt="youtube">
+				
+				<div class="col-md-6">
+					<iframe width="560" height="315" src="https://www.youtube.com/embed/CiYTMgRBuCE" frameborder="0" allowfullscreen></iframe>
 				</div>
+				</div>
+			
+			
+			<div class="col-md-12">
+			<div class="margin_about_us2"></div>
 			</div>
 			<div class="row text-center">
+
 				<div class="col-md-3">
 					<div id="development"></div>
 					<p>Духовно-нравственное совершенствование общества</p>
@@ -37,7 +45,10 @@
 					<div id="book"></div>
 					<p>Создание проектов по выполнению различных добрых дел, направленных на объединение людей</p>
 				</div>
-			</div>
+				</div>
+			
+		
+
 		</div>
 	</section>
 
@@ -73,6 +84,46 @@
 				<h2 class="text-center">НАША история</h2>
 				<img src="/wp-content/themes/commonspace/img/all_teams.png" alt="all_teams">
 				<p>27 февраля 2015 года в Днепропетровске прошла конференция «СОЦИАЛЬНОЕ ПАРТНЕРСТВО – БУДУЩЕЕ УКРАИНЫ!». Целью конференции было: <span class="select">создание площадки для конструктивного взаимодействия и сотрудничества общественности, науки, бизнеса и власти по поддержке бизнеса, реализации совместных социальных проектов, продвижения инновационных научных и бизнес идей содействия социальной адаптации и трудоустройства студенческой молодежи.</span> <br>Итогом конференции стал проект подписания «Суспільного договору» между государственными органами, бизнесом, наукой и общественностью, и создание Международного общественного союза <span class="select">«Единый простор»</span>.</p>
+				<div class="col-md-12">
+
+
+					<div class="btn_more">
+					
+					<div class="text-center">
+													<a class="btn_pae" href="http://test.commonspace2015.com/event/" target="_blank">Просмотреть проекты</a>
+						
+					</div>
+					</div>
+					</div>
+
+
+
+
+
+
+<div class="col-md-12">
+			<div class="margin_about_us2"></div>
+			</div>
+
+			<div class="margin_video">		
+
+			<div class="col-md-6">
+			<div class="row">
+				<iframe width="560" height="315" src="https://www.youtube.com/embed/dq_6pymyuEQ" frameborder="0" allowfullscreen></iframe>
+				</div>
+			</div>
+			<div class="col-md-6">
+					<iframe width="560" height="315" src="https://www.youtube.com/embed/aGrt2N9FNXs" frameborder="0" allowfullscreen></iframe>
+					
+
+			</div>
+			
 			</div>
 		</section>
 	</div>
+			</div>
+
+			
+
+	
+

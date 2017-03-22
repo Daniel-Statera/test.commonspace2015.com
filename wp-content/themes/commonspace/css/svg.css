@@ -38,7 +38,7 @@
 	margin: 0 auto;
 }
 #help {
-	background-image: url(../img/help.svg);
+	background-image: url(../img/Help.svg);
 	background-repeat: no-repeat;
 	background-size: cover;
 	width: 68px;
@@ -54,7 +54,7 @@
 	margin: 0 auto;	
 }
 #book {
-	background-image: url(../img/book.svg);
+	background-image: url(../img/Book.svg);
 	background-repeat: no-repeat;
 	background-size: cover; 
 	width: 67px;

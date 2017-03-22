@@ -16,7 +16,7 @@ get_header(); ?>
 
 <section id="slider_news">
 	<div class="container">
-		<h1>Проекты и мероприятия <i class="fa fa-bullhorn"></i></h1>
+		<h1>Проекты и мероприятия 2<i class="fa fa-bullhorn"></i></h1>
 		<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>		
 	</div>
 </section>
@@ -39,7 +39,7 @@ get_header(); ?>
 				    $thumb_alt = trim(strip_tags( $attachment->post_excerpt ));
 				    $thumb_title = trim(strip_tags( $attachment->post_title ));
 				  
-				    echo '<img src="'.$thumb[0].$size.'" height=100% width="100%"'.$thumb_alt.'" title="'.$thumb_title.'" />';
+				    echo '<img src="'.$thumb[0].$size.'" height=100%"'.$thumb_alt.'" title="'.$thumb_title.'" />';
 				}
 				else {
 					echo "<img height=100% width=100% src='/wp-content/themes/commonspace/img/events-img.jpg'>";
