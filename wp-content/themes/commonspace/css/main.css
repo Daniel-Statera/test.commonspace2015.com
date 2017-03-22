@@ -695,3 +695,6 @@ Footer END
     margin: 5px 0px 10px;
     line-height: 1.33;
 }
+#slider64_container div {
+	margin-top: 15px;
+}

@@ -38,7 +38,7 @@ get_header(); ?>
 				    $thumb_alt = trim(strip_tags( $attachment->post_excerpt ));
 				    $thumb_title = trim(strip_tags( $attachment->post_title ));
 				  
-				    echo '<img src="'.$thumb[0].$size.'" width="200px" height="150px"'.$thumb_alt.'" title="'.$thumb_title.'" />';
+				    echo '<img src="'.$thumb[0].$size.'" width="150px"'.$thumb_alt.'" title="'.$thumb_title.'" />';
 				}
 			?>
 		</a>

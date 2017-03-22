@@ -11,7 +11,8 @@
 
 <article id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
 
-	<div class="entry-content">
+	<div class="entry-content container">
+	<div class="col-md-9">
 		<?php
 			the_content();
 
@@ -20,5 +21,7 @@
 				'after'  => '</div>',
 			) );
 		?>
+	</div>
+	<?php get_sidebar();?>
 	</div><!-- .entry-content -->
 </article><!-- #post-## -->
