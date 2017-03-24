@@ -16,6 +16,13 @@
 <link rel="profile" href="http://gmpg.org/xfn/11">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<script>
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = '//api.at.getsocial.io/widget/v1/gs_async.js?id=d5fd5d';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
 
 <?php wp_head(); ?>
 </head>
