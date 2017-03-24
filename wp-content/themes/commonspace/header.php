@@ -41,9 +41,9 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po
 				</div>
 				<div class="col-md-6" id="socials">
 					<h2>Мы в соц. сетях:</h2>
-					<a href="#"><div class="social-icon" id="social-insta"></div></a>
-					<a href="#"><div class="social-icon" id="social-fb"></div></a>
-					<a href="#"><div class="social-icon" id="social-vk"></div></a>
+					<a target="_blank" href="#"><div class="social-icon" id="social-insta"></div></a>
+					<a target="_blank" href="#"><div class="social-icon" id="social-fb"></div></a>
+					<a target="_blank" href="https://vk.com/commonspace2015"><div class="social-icon" id="social-vk"></div></a>
 				</div>
 			</div>
 		</div>
