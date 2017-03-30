@@ -706,7 +706,6 @@ Footer END
 .btn_more a {
 	font-size: 30px;
 }
-
 .btn_pae {
 	padding: 20px;
 	width: 200px;
@@ -715,9 +714,175 @@ Footer END
 	background-color: #3480d5;
 	color: #fff;
 }
-
-
 .margin_video {
 	margin-top: 20px;
+}
+/*
+Page Contacts
+*/
+.default_font {
+    font-family: verdana;
+}
 
+.category {
+    display: block;
+    margin-top: 25px;
+}
+
+.category_name {
+    font-size: 20px;
+}
+
+.contact-list {
+    min-width: 350px;
+    text-align: center;
+}
+
+.contact {
+    display: inline-block;
+    width: 300px;
+    height: 100px;
+    margin: 25px 25px 0 25px;
+    padding-top: 17px;
+    border-radius: 3px;
+    -webkit-box-shadow: 0px 0px 32px -1px rgba(0, 0, 0, 0.24);
+    -moz-box-shadow: 0px 0px 32px -1px rgba(0, 0, 0, 0.24);
+    box-shadow: 0px 0px 32px -1px rgba(0, 0, 0, 0.24);
+}
+
+.name {
+    font-size: 20px;
+    margin-bottom: 0px;
+    color: #323232;
+}
+.number {
+    font-size: 18px;
+    margin-top: 7px;
+    color: #323232;
+}
+.decoration {
+    padding-bottom: 3px;
+    display: inherit;
+    height: 5px;
+    width: 100%;
+    background-color: #2e82ec;
+}
+.contact_button {
+    display: block;
+    margin: auto;
+    margin-top: 35px;
+    background-color: #2e82ec;
+    border: 0px;
+    border-radius: 3px;
+    height: 50px;
+    width: 70%;
+    min-width: 350px;
+    max-width: 600px;
+    color: white;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+.contact>.info>p {
+	margin-bottom: 0;
+}
+/*
+Page Order
+*/
+.clouds {
+    background-image: url("../img/orderHead.png");
+    background-size: cover;
+    background-position: bottom;
+}
+
+.orderHead {
+    min-height: 300px;
+    padding-top: 15px;
+}
+
+.head__lgText {
+    margin-top: 15px;
+    font-size: 36px;
+    color: white;
+}
+
+.head__smText {
+    line-height: 1.5;
+    font-size: 26px;
+    color: white;
+}
+
+._image {
+    width: 100%;
+    height: 278px;
+    background-image: url("../img/Objects.png");
+    background-size: cover;
+    min-width: 240px;
+    max-width: 245px;
+    margin: auto;
+}
+
+.orderMain {
+    margin-top: 50px;
+    margin-left: 15px;
+}
+
+.main__smText {
+    font-size: 18px;
+}
+
+.inputs {
+    -webkit-box-shadow: 0px 0px 32px -1px rgba(0, 0, 0, 0.24);
+    -moz-box-shadow: 0px 0px 32px -1px rgba(0, 0, 0, 0.24);
+    box-shadow: 0px 0px 32px -1px rgba(0, 0, 0, 0.24);
+    border: 1px;
+    width: 100%;
+    margin-top: 20px;
+    border-radius: 3px;
+    text-indent: 10px;
+}
+
+.__smInput {
+    height: 35px;
+}
+
+.__lgInput {
+    height: 150px;
+}
+
+.inputbtn {
+    background-color: #333333;
+    color: white;
+    height: 35px;
+    font-size: 18px;
+    text-transform: uppercase;
+}
+
+::-webkit-input-placeholder {
+    text-indent: 10px;
+    color: #777777;
+    line-height: 2.5;
+}
+
+::-moz-placeholder {
+    text-indent: 10px;
+    color: #777777;
+    line-height: 2.5;
+}
+
+
+/* Firefox 19+ */
+
+:-moz-placeholder {
+    text-indent: 10px;
+    color: #777777;
+    line-height: 2.5;
+}
+
+
+/* Firefox 18- */
+
+:-ms-input-placeholder {
+    text-indent: 10px;
+    color: #777777;
+    line-height: 2.5;
 }
